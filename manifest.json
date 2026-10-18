@@ -1,18 +1,13 @@
 {
-  "name": "HomeBuild Companion",
-  "short_name": "HomeBuild",
+  "name": "The Hampton Edit — Home Build Journal",
+  "short_name": "Hampton Edit",
+  "description": "A calm, coastal-inspired companion for your home build.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f5f7f5",
-  "theme_color": "#244c46",
-  "description": "A simple personal home-building project companion.",
+  "background_color": "#f8f7f2",
+  "theme_color": "#f8f7f2",
   "icons": [
-    {
-      "src": "icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
-    }
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
   ]
 }
